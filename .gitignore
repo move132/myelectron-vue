@@ -4,7 +4,7 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
+movecss-win32-x64/
 # Editor directories and files
 .idea
 .vscode
